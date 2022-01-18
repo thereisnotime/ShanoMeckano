@@ -1,5 +1,6 @@
 # ShanoMeckano
 
+
 A quick and dirty solution for automated time logging for [Meckano](https://app.meckano.co.il/#dashboard) time tracking app.
 
 - [ShanoMeckano](#shanomeckano)
